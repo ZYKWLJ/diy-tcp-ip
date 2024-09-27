@@ -1,0 +1,15 @@
+﻿  pcap_device.c
+  app.c
+  port_pcap.c
+  xserver_datetime.c
+  xserver_http.c
+  xnet_tiny.c
+  正在生成代码...
+D:\1code\CC++\diyTcpip\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0702\src\xnet_app\xserver_http.c(143,31): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\1code\CC++\diyTcpip\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0702\src\xnet_app\xserver_http.c(147,20): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\1code\CC++\diyTcpip\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0702\src\xnet_app\xserver_http.c(125,9): warning C4101: “i”: 未引用的局部变量
+D:\1code\CC++\diyTcpip\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0702\src\xnet_tiny\xnet_tiny.c(38,9): warning C4005: “min”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1283,17):
+      参见“min”的前一个定义
+  
+  xnet.vcxproj -> D:\1code\CC++\diyTcpip\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0702\x64\Debug\xnet.exe

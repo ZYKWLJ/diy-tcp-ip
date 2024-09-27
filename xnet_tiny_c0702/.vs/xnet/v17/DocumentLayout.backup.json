@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1code\\CC\u002B\u002B\\diyTcpip\\Learning-DIY-TCPIP_WEB-master\\xnet_tiny_c0702\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BAA19-2F78-4A2D-8F6F-6F298F04A3C4}|xnet.vcxproj|D:\\1code\\CC\u002B\u002B\\diyTcpip\\Learning-DIY-TCPIP_WEB-master\\xnet_tiny_c0702\\src\\app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB7BAA19-2F78-4A2D-8F6F-6F298F04A3C4}|xnet.vcxproj|solutionrelative:src\\app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.c",
+              "DocumentMoniker": "D:\\1code\\CC\u002B\u002B\\diyTcpip\\Learning-DIY-TCPIP_WEB-master\\xnet_tiny_c0702\\src\\app.c",
+              "RelativeDocumentMoniker": "src\\app.c",
+              "ToolTip": "D:\\1code\\CC\u002B\u002B\\diyTcpip\\Learning-DIY-TCPIP_WEB-master\\xnet_tiny_c0702\\src\\app.c",
+              "RelativeToolTip": "src\\app.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T04:02:00.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
